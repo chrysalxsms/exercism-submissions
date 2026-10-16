@@ -1,8 +1,8 @@
-# Tell GitHub Linguist that files in the solutions folder are original code
-solutions/** -linguist-vendored
-solutions/** -linguist-documentation
+* -linguist-vendored
+* -linguist-generated
+* -linguist-documentation
 
-# Force detection for your specific languages
-*.java linguist-detectable=true
-*.js linguist-detectable=true
-*.hs linguist-detectable=true
+*.java linguist-language=Java
+*.js linguist-language=JavaScript
+*.hs linguist-language=Haskell
+*.py linguist-language=Python
