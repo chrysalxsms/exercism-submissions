@@ -1,7 +1,8 @@
-* -linguist-vendored
-* -linguist-generated
-* -linguist-documentation
+* linguist-vendored=false
+* linguist-generated=false
+* linguist-documentation=false
 
+# Language definitions
 *.java linguist-language=Java
 *.js linguist-language=JavaScript
 *.hs linguist-language=Haskell
