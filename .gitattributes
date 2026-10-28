@@ -1,10 +1,1 @@
-* linguist-vendored=false
-* linguist-generated=false
-* linguist-documentation=false
-
-# Language definitions
-*.java linguist-language=Java
-*.js linguist-language=JavaScript
-*.hs linguist-language=Haskell
-*.py linguist-language=Python
 *.gd linguist-language=GDScript
